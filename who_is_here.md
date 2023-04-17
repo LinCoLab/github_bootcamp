@@ -5,3 +5,7 @@
 ### Josef Fruehwald
 
 - [Info](people/josef-fruehwald.md)
+
+### Connor Bechler
+
+- [Info](people/ConnorBechler.md)
