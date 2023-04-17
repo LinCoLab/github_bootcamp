@@ -8,4 +8,4 @@
 
 ### Ellie Wren-Hardin
 
-- [Info] (people/ellie.md)
+- [Info](people/ellie.md)
