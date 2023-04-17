@@ -5,3 +5,7 @@
 ### Josef Fruehwald
 
 - [Info](people/josef-fruehwald.md)
+
+### fake-person
+
+- [Info](people/fake-person.md)
