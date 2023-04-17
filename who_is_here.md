@@ -5,3 +5,7 @@
 ### Josef Fruehwald
 
 - [Info](people/josef-fruehwald.md)
+
+### Angel Passarelli
+
+- [Info](people/angel.md)
