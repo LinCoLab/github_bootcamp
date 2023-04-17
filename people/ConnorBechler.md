@@ -1,7 +1,7 @@
 
 
 ## Connor  Bechler
-https://linguistics.as.uky.edu/users/cnbe228
+Website: https://linguistics.as.uky.edu/users/cnbe228
 
   - Linguistics MA student at University of Kentucky
   - Graduating this year!
