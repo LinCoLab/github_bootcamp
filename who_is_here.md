@@ -6,6 +6,10 @@
 
 - [Info](people/josef-fruehwald.md)
 
+### john-winstead
+
+-[Info](people/john-winstead.md)
+
 ### Connor Bechler
 
 - [Info](people/ConnorBechler.md)
